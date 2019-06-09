@@ -1,3 +1,3 @@
-create database
- Practica1
- 
+create database labBD;
+
+use labBD;
